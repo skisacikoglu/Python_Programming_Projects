@@ -1,2 +1,2 @@
 # Python Programming Projects
- Projects that are based on Python programming
+ Data science projects that are based on Python programming
